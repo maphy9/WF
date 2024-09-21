@@ -9,6 +9,12 @@
 * Środa       18.15
 * Czwartek    18.15
 
+### Doskonalenie Pływania
+* Wtorek      8.30
+* Środa       10.00
+* Czwartek    8.30
+* Piątek      8.30
+
 ### Siatkówka
 * Wtorek      16.15
 
@@ -26,9 +32,6 @@
 
 ### Ścianka wpinaczkowa
 * Czwartek    8.15
-
-### Doskonalenie Pływania
-* Czwartek    8.30
 
 ### Tenis ziemny
 * Czwartek    8.15
